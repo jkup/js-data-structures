@@ -3,23 +3,23 @@ function LinkedList(){
 }
 
 LinkedList.prototype.push = function(val){
+    var current;
+
     var node = {
        value: val,
        next: null
-    }
+    };
 
     if(!this.head){
       this.head = node;
-    }
-
-    else{
+    } else {
       current = this.head;
       while(current.next){
         current = current.next;
       }
       current.next = node;
     }
-}
+};
 
 /*
  * Tests
