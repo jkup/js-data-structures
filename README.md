@@ -3,7 +3,7 @@
 Examples of common data structures in JavaScript
 
 ## Data Structures
-+ Linked List
++ [Linked List](data-structures/linked-list/linked-list.js)
 + Doubly Linked List
 + Binary Tree
 + Stack
