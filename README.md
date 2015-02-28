@@ -6,8 +6,8 @@ Examples of common data structures in JavaScript
 + [Linked List](data-structures/linked-list/linked-list.js)
 + Doubly Linked List
 + Binary Tree
-+ Stack
-+ Queue
++ [Stack](data-structures/stack/stack.js)
++ [Queue](data-structures/queue/queue.js)
 + Graph Representation
 
 ## Time and Space Complexity
