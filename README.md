@@ -32,5 +32,5 @@ Examples of common data structures in JavaScript
 + Randomized Quick Sort
 + Dynamic Programming
 + Heap Sort
-+ Radix Sort
++ [Radix Sort](data-structures/radix-sort/radix-sort.js)
 + Spanning Tree
