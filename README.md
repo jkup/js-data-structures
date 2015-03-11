@@ -18,7 +18,7 @@ Examples of common data structures in JavaScript
 + Binary Search
 + Hashes
 + Merge Sort
-+ Quick Sort
++ [Quicksort](data-structures/quicksort/quicksort.js)
 + Bucket Sort
 + Breadth-First Search
 + Depth-First Search
